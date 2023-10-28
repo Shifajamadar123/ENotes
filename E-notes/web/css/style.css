@@ -1,0 +1,28 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 10 Jun, 2023, 4:21:27 PM
+    Author     : HP
+*/
+.bg-custom{
+    background: #f8bbd0;
+}
+
+.navbar .nav-item .nav-link{
+    font-size: 20px;
+    color :white;
+}
+
+.navbar-custom .nav-item:hover .nav-link{
+    background: white;
+    color : black;
+    border-radius: 10px;
+    
+}
+
+.div-color{
+    background-image: linear-gradient(to right top, #ad613b, #bd4b4d, #c0366e, #ae3598, #7749c2);
+    height:500px;
+}
